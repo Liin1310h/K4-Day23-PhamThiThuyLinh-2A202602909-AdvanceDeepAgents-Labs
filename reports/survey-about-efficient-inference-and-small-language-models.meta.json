@@ -1,0 +1,25 @@
+{
+  "topic": "survey about efficient inference and small language models",
+  "model": "google_genai:gemini-3.5-flash-lite",
+  "elapsed_s": 134.7,
+  "subagent_calls": 4,
+  "tool_calls": {
+    "write_todos": 9,
+    "task": 4,
+    "execute": 4,
+    "read_file": 4,
+    "write_file": 2
+  },
+  "tokens": {
+    "input": 273162,
+    "output": 6941
+  },
+  "n_sources": 13,
+  "source_families": [
+    "arxiv",
+    "hf-daily",
+    "hf-search",
+    "web"
+  ],
+  "unverified_sources": []
+}

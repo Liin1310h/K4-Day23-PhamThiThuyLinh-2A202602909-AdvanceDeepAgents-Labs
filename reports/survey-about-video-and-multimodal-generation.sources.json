@@ -1,0 +1,146 @@
+[
+  {
+    "n": 1,
+    "id": "https://openai.com/index/video-generation-models-as-world-simulators/",
+    "url": "https://openai.com/index/video-generation-models-as-world-simulators/",
+    "title": "Video Generation Models as World Simulators",
+    "date": "2024-02-15",
+    "source": "web"
+  },
+  {
+    "n": 2,
+    "id": "2405.09818",
+    "url": "https://huggingface.co/papers/2405.09818",
+    "title": "Chameleon: Mixed-Modal Early-Fusion Foundation Models",
+    "date": "2024-05-16",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "https://arxiv.org/html/2312.11805v4",
+    "url": "https://arxiv.org/html/2312.11805v4",
+    "title": "Gemini: A Family of Highly Capable Multimodal Models",
+    "date": "2023-12-18",
+    "source": "web"
+  },
+  {
+    "n": 4,
+    "id": "2412.20404",
+    "url": "https://huggingface.co/papers/2412.20404",
+    "title": "Open-Sora: Democratizing Efficient Video Production for All",
+    "date": "2024-12-29",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2409.04429",
+    "url": "https://huggingface.co/papers/2409.04429",
+    "title": "VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation",
+    "date": "2024-09-06",
+    "source": "hf-search"
+  },
+  {
+    "n": 6,
+    "id": "2506.14168",
+    "url": "https://huggingface.co/papers/2506.14168",
+    "title": "VideoMAR: Autoregressive Video Generation with Continuous Tokens",
+    "date": "2025-06-17",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "GoL",
+    "url": "https://arxiv.org/abs/2607.19437",
+    "title": "Group-of-Latents: Perceptual Video Compression at Extreme Bitrates via Masked Latent Generative Modeling",
+    "date": "2026-07-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "SCOPE",
+    "url": "https://arxiv.org/abs/2608.12780",
+    "title": "SCOPE: Subspace Clustering with Online Per-Head Top-K Estimation for Sparse Video Attention",
+    "date": "2026-08-13",
+    "source": "arxiv"
+  },
+  {
+    "n": 9,
+    "id": "2412.00131",
+    "url": "https://arxiv.org/abs/2412.00131",
+    "title": "Open-Sora Plan: Open-Source Large Video Generation Model",
+    "date": "2024-11-28",
+    "source": "hf-daily"
+  },
+  {
+    "n": 10,
+    "id": "https://openaccess.thecvf.com/content/CVPR2026W/VGBE/papers/Safavigerdini_Generative_AI_Video_Evaluation_Survey_of_Metrics_Benchmarks_and_Trustworthiness_CVPRW_2026_paper.pdf",
+    "url": "https://openaccess.thecvf.com/content/CVPR2026W/VGBE/papers/Safavigerdini_Generative_AI_Video_Evaluation_Survey_of_Metrics_Benchmarks_and_Trustworthiness_CVPRW_2026_paper.pdf",
+    "title": "Generative AI Video Evaluation: Survey of Metrics, Benchmarks, and Trustworthiness",
+    "date": "2026-04-01",
+    "source": "web"
+  },
+  {
+    "n": 11,
+    "id": "2209.14792",
+    "url": "https://arxiv.org/abs/2209.14792",
+    "title": "Make-A-Video: Text-to-Video Generation without Text-Video Data",
+    "date": "2022-09-28",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "https://github.com/hpcaitech/Open-Sora/blob/main/docs/report_01.md",
+    "url": "https://github.com/hpcaitech/Open-Sora/blob/main/docs/report_01.md",
+    "title": "docs/report_01.md at main · hpcaitech/Open-Sora",
+    "date": "2024-01-01",
+    "source": "web"
+  },
+  {
+    "n": 13,
+    "id": "2309.00398",
+    "url": "https://huggingface.co/papers/2309.00398",
+    "title": "VideoGen: A Reference-Guided Latent Diffusion Approach for High Definition Text-to-Video Generation",
+    "date": "2023-09-01",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "https://deepmind.google/models/model-cards/gemini-omni-flash/",
+    "url": "https://deepmind.google/models/model-cards/gemini-omni-flash/",
+    "title": "Gemini Omni Flash - Model Card",
+    "date": "2026-08-27",
+    "source": "web"
+  },
+  {
+    "n": 15,
+    "id": "2412.04432",
+    "url": "https://huggingface.co/papers/2412.04432",
+    "title": "Divot: Diffusion Powers Video Tokenizer for Comprehension and Generation",
+    "date": "2024-12-05",
+    "source": "hf-daily"
+  },
+  {
+    "n": 16,
+    "id": "TRaM-VSR",
+    "url": "https://arxiv.org/abs/2607.22231",
+    "title": "TRaM-VSR: Importance-Aware Token Routing and Merging for One-Step Diffusion Video Super-Resolution",
+    "date": "2026-07-24",
+    "source": "arxiv"
+  },
+  {
+    "n": 17,
+    "id": "RVEDiT",
+    "url": "https://arxiv.org/abs/2605.24674",
+    "title": "Reasoning to Align: Implicit Reasoning in Diffusion Transformers for Video Editing",
+    "date": "2026-05-23",
+    "source": "arxiv"
+  },
+  {
+    "n": 18,
+    "id": "https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_VBench_Comprehensive_Benchmark_Suite_for_Video_Generative_Models_CVPR_2024_paper.pdf",
+    "url": "https://openaccess.thecvf.com/content/CVPR2024/papers/Huang_VBench_Comprehensive_Benchmark_Suite_for_Video_Generative_Models_CVPR_2024_paper.pdf",
+    "title": "VBench: Comprehensive Benchmark Suite for Video Generative Models",
+    "date": "2024-06-01",
+    "source": "web"
+  }
+]
